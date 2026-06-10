@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4",0805,4,100nF,
+D1,D_SOD-123,1,1N4148W,
+J1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+J2,PinHeader_1x01_P2.54mm_Vertical,1,Conn_01x01_Pin,
+"J3, J4",PinHeader_1x06_P2.54mm_Vertical,2,Conn_01x06_Pin,
+"R1, R4, R5",0805,3,10k,
+"R2, R3",0805,2,8k2,
+U1,TO-252-2,1,L7805,
+U2,DIP-14_W7.62mm,1,74HC86,
+U3,DIP-14_W7.62mm,1,74HC00,
